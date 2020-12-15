@@ -1,0 +1,105 @@
+/* CSS DOCUMENT */
+/* this is a css comment */
+body {
+    background-color: bisque;
+    color:whitesmoke;
+    font-size: 35px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTlKqhn9uBBwckRacFQ5b8KLOe--Zj9DuxQ&amp;usqp=CAU");
+    background-size: cover;
+}
+p {
+    color: orchid;
+    font-size:30px;
+    text-align: center;
+}
+h1 {
+    color: purple;
+    font-size:50px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+div {
+    width: 1200px;   
+    margin-left: 100px;
+    text-align: center;
+    background-color: bisque;
+    border: 2px;
+    border-radius: 50px;
+    border-color: darkgrey;
+    min-height: 100%;
+    
+}
+span {
+    color: yellow;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.one {
+    background-color: palevioletred;
+    width: 600px;
+    text-align: center;
+    margin-left: 450px;
+}
+.computer {
+    color: wheat;
+    text-align: center;
+}
+.kannur {
+    color: tomato;
+    text-align: center;
+}
+.cricket {
+    color: orangered;
+    text-align: center;
+}
+.football {
+    color: powderblue;
+    text-align: center;
+}
+.CC {
+    color: brown; 
+    text-align: center;
+}
+.name {
+    color:peru;
+    text-align: center;
+}
+#three {
+    background-color: paleturquoise;
+    color: olive;    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.four {
+    background-color: palevioletred;
+    color: purple;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin-left: 400px;
+}
+.image {
+    width: 200px;
+    height:275px;
+    margin-right: 100px;
+    background-color: slategray;
+    border: 2px;
+    border-radius: 20px;
+    clip-path: circle();
+}
+.about {
+    color: salmon;
+}
+.two {
+    background-color: slateblue;
+    width: 700px;
+    margin-left: 400px;
+}
+.global {
+    background-color: darkgrey;
+    width: 1500px;
+    opacity: 0.9;
+    min-height: 100%;
+    overflow: hidden;
+}
